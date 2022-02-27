@@ -47,6 +47,7 @@ apis with 3 endpoints:
 •	Maven 3
 
 ## Rest Apis:
+It is builded with Docker.
 
 To be able to use the apis, create level and spots. There is no api support this but *TestDataSetupService* injects mock data.
 
